@@ -1,0 +1,7 @@
+1 Trimax Pen 50.00 28 2
+2 Natraj Pencil 5.00 97 3
+3 Lux Soap 35.00 50 0
+4 Dabur Toothpaste 30.00 60 0
+5 Apsara Eraser 2.50 100 0
+6 Doms Sharpner 2.50 79 1
+7 pepsi drink 30.00 38 2
